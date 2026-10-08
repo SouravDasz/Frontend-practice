@@ -4,7 +4,7 @@ const Card = (props) => {
     <>
     <div className="parent">
         <div className="card">
-        <h1>name : {props.user}</h1>
+        <h1 className="bg-red-600 text-2xl font-serif">name : {props.user}</h1>
         <h3>email : </h3>
         <h3>ph : </h3>
         <p>details : </p>
