@@ -14,4 +14,14 @@ A clean landing page concept with a centered image composition, oversized typogr
 
 ![First design preview](images/first.png)
 
+### 2. Digital Designer Portfolio
+
+A bold portfolio landing page for Bent Lindberg, featuring oversized typography, Berlin location details, a full-width hero image, and an about section with social links.
+
+- Page: [Open the second design](Second/index.html)
+- Source: [HTML](Second/index.html) | [CSS](Second/style.css)
+- Preview:
+
+![Second design preview](images/second.png)
+
 More frontend designs will be added here as they are created.
