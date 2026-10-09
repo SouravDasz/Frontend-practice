@@ -1,10 +1,8 @@
-import Card from "./components/card"
+import React from 'react'
 
-const App=()=>{
+const App = () => {
   return (
-    <>
-    <Card user='sourav' age={18} />
-    </>
+    <div>App</div>
   )
 }
 

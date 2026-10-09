@@ -24,4 +24,10 @@ A bold portfolio landing page for Bent Lindberg, featuring oversized typography,
 
 ![Second design preview](images/second.png)
 
+### 3. Third Card Design
+
+Preview:
+
+![Third card preview](https://images.unsplash.com/photo-1780686616214-08da38e8ec29?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3N8MTc1fHx8ZW58MHx8fHx8)
+
 More frontend designs will be added here as they are created.
